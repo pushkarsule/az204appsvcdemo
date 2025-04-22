@@ -4,9 +4,9 @@
 name: Build and deploy ASP.Net Core app to Azure Web App - az400demo421
 
 on:
-  push:
-    branches:
-      - main
+  #push:
+    #branches:
+      #- main
   workflow_dispatch:
 
 jobs:
